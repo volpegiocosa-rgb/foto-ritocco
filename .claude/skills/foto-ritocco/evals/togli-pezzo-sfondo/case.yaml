@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: togli-pezzo-sfondo
+expected_outcome: |
+  The board fragment and yellow token at the upper left are gone, the box and the tiles are intact, and no visible artifact stays.

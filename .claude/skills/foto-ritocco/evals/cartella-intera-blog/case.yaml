@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: cartella-intera-blog
+expected_outcome: |
+  All 11 photos are ready for the web, the framing is unchanged, the text is intact, and the source files are unchanged.
